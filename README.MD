@@ -41,3 +41,10 @@ Functional Requirements describe the service that the Bank Management System Mus
 
 
 ![alt text](https://github.com/NiranjanLearning1/BMS/blob/development/BMSDiagram.png?raw=true)
+
+
+## Software Requirements:
+- Database:
+    * Microsoft Sql Server
+- Programming Languages:
+    * Java

@@ -38,3 +38,6 @@ Functional Requirements describe the service that the Bank Management System Mus
     * View Manager and Customer Details
     * Add Or Update Banking Branch Details
     * Add Or Update Manager Details
+
+
+![alt text](https://github.com/NiranjanLearning1/BMS.git/blob/development/BMSDiagram.png?raw=true)

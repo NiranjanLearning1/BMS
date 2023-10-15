@@ -40,4 +40,4 @@ Functional Requirements describe the service that the Bank Management System Mus
     * Add Or Update Manager Details
 
 
-![alt text](https://github.com/NiranjanLearning1/BMS.git/blob/development/BMSDiagram.png?raw=true)
+![alt text](https://github.com/NiranjanLearning1/BMS/blob/development/BMSDiagram.png?raw=true)
